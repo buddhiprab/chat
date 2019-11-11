@@ -1,3 +1,4 @@
 spring:
   application:
     name: sample-spring-redis
+

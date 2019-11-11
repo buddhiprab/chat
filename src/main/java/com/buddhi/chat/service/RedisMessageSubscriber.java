@@ -1,4 +1,4 @@
-package com.buddhi.chat;
+package com.buddhi.chat.service;
 
 import org.springframework.data.redis.connection.Message;
 import org.springframework.data.redis.connection.MessageListener;
